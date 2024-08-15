@@ -12,7 +12,7 @@ I am Brandon Williams, a sophomore at Howard University, majoring in Computer In
 ## Education
 
 - **BBA of Computer Information Systems, Howard University**
-  - Technical Skills: C++, Java, JavaScript, Python, Swift, SQL
+  - Technical Skills: JavaScript, Go, Python, Swift
   - Certifications: Coursera iOS Mobile Development, Coursera Principles of UX/UI Design, Coursera React Native
   - Learning: Version Contron & Git
 
