@@ -1,6 +1,6 @@
 Certainly! Here's a GitHub README for your account:
 
-# Brandon Williams
+# BrandonM
 
 📧 Email: brandonmakaiw@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/brandon-williams/)
