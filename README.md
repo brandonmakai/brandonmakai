@@ -1,4 +1,3 @@
-Certainly! Here's a GitHub README for your account:
 
 Hi, nice to see you here. This page is dedicated to the various passion projects that I create due to my obsession with new shiny toys. Hope you enjoy your stay!
 
