@@ -1,14 +1,6 @@
 Certainly! Here's a GitHub README for your account:
 
-# BrandonM
-
-📧 Email: brandonmakaiw@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/brandon-williams/)
-
-## About Me
-
-I am BrandonM, a current undergraduate student majoring in Computer Information Systems-
-Come explore what I'm up to. I love to program and I write hundreds of lines of code on the daily! 😁
+Hi, nice to see you here. This page is dedicated to the various passion projects that I create due to my obsession with new shiny toys. Hope you enjoy your stay!
 
 ## Technical Work
 
