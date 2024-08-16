@@ -9,7 +9,7 @@ Hi, nice to see you here. This page is dedicated to the various passion projects
   
 ## Projects
 
-- **Distrubted Task Queue, August 2024**
+- **Distrubted Task Queue, Current**
   - **Individual Project, (Go)**
   - Desperate to get out of the cycle of creating bad front-ends due to my lack of design skills, I am currently learning Go to make more preformant backends.
   - This project will serve as my first official intro to Go.
