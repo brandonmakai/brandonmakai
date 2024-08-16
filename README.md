@@ -12,7 +12,9 @@ Hi, nice to see you here. This page is dedicated to the various passion projects
 - **Distrubted Task Queue, Current**
   - **Individual Project, (Go)**
   - Desperate to get out of the cycle of creating bad front-ends due to my lack of design skills, I am currently learning Go to make more preformant backends.
-  - This project will serve as my first official intro to Go.
+  - This CLI project will serve as my first official intro to Go.
+  - This project is in response to my organization's current issues with task management software.
+  - It will allow for users to be assigned and distribute task to workers.
   - I plan on implementing Goroutines, HTTP networking, and more to better understand Go's paradigm.
 
 - **Partner Analysis Intern Project, June 2024**
