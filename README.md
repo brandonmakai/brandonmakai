@@ -7,46 +7,66 @@ Certainly! Here's a GitHub README for your account:
 
 ## About Me
 
-I am Brandon Williams, a sophomore at Howard University, majoring in Computer Information Systems. My educational journey has equipped me with a strong foundation in various technical skills, including C++, Java, JavaScript, Python, Swift, and SQL. I have a genuine passion for creating unique projects, particularly in the realm of mobile applications.
+I am BrandonM, a current undergraduate student majoring in Computer Information Systems-
+Come explore what I'm up to. I love to program and I write hundreds of lines of code on the daily 😁
 
-## Education
+## Technical Work
 
-- **BBA of Computer Information Systems, Howard University**
-  - Technical Skills: JavaScript, Go, Python, Swift
-  - Certifications: Coursera iOS Mobile Development, Coursera Principles of UX/UI Design, Coursera React Native
-  - Learning: Version Contron & Git
-
-## Work Experience
-
-- **You Lead Male Initiative**
-  - *Intern, August 2023 – Present*
-  - Using Swift to develop the You Lead Male Initiative application, a dynamic platform that serves as a hub for future events and partnerships, including collaborations with organizations like 100 Black Men.
-  - Established a proposal for the You Lead Male Initiative’s online presence, increasing awareness by 100% through social media platforms, community outreach, and partnership with other campus initiatives.
-
-- **BrainTheWeb**
-  - *Founder, August 2020 – May 2021*
-  - Executed comprehensive client needs assessments and A/B testing to gain an in-depth understanding of each client's unique requirements and objectives and fine-tune elements for optimal user interaction.
-  - Significantly increased user engagement for client websites from 25% to 100% through strategic remodeling of older versions, implementation of effective SEO strategies, and incorporation of user-friendly features.
-
-## Leadership & Extracurricular Activities
-
-- **Howard University Coding Collaborative**
-  - *Board Secretary, August 2023 – Present*
-  - Built strategic collaborations, including a successful partnership with Accenture, facilitating networking opportunities and connections between students pursuing technology-related majors and industry professionals.
-  - Created 3 unique initiatives per semester increasing member engagement and retainment by 25%. Also, held monthly lectures such as, "Sorting Algorithm Basics in Python," enhancing members' coding expertise.
-
+- **Proficient Languages**
+  - Languages: JavaScript, Python, Swift
+  - Work in progress: Go
+  
 ## Projects
 
-- **SpaceBreak, May 2023 – July 2023**
-  - *Individual Project*
-  - Developed a captivating reinterpretation of the classic Asteroids game in C++ within a two-month timeframe.
-  - Showcased adept game design using a low-level language, demonstrating innovative problem-solving and technical expertise, such as collision detection and performance optimization.
+- **Distrubted Task Queue, August 2024**
+- **Individual Project, (Go)**
+- Desperate to get out of the cycle of creating bad front-ends due to my lack of design skills, I am currently learning Go to make more preformant backends.
+- This project will serve as my first official intro to Go.
+- I plan on implementing Goroutines, HTTP networking, and more to better understand Go's paradigm.
+
+- **Partner Analysis Intern Project, June 2024**
+- *Intern Project (React + FastAPI)*
+- Really dove deep into learning backend logic, API calls, and systems architecturing.
+- Collected data on potential partners, wrote thousaunds of lines of code, and worked as the lead backend engineer.
+- Displayed data using ChartJS in React front-end.
+
+- **SupaSonic LLM Web App, May 2024**
+- *Hackathon Project (React + Flask)*
+- Learned basics of React from this project. Led to a new-found love for web application development.
+- My first "FullStack" application that I would say didn't just utilize a BaaS solution.
+- Learned basics of routing and API calls.
+- Learned how to implement OpenAI's API and basic prompt engineering (impressive, I know).
+
+- **Solace, March 2024**
+- *Hackathon Project (Swift)
+- My first hackathon where I worked with a team.
+- Crash course on how to work with other members with no sleep and differing opinions.
+
+- **Thrift, Feburary 2024**
+- *Individual Project (Swift)*
+- My first passion project that I poured hundreds of hours into.
+- Smallish project created due to a recent interest in fashion at my university and watching the ever so inspiring "The Social Network" film.
+- The application allowed for students to login with their howard email and post about clothes that they had designed.
+- Learned basic data structures and algorithms to implement a matching algorithm (KNN).
+- First experience using backend technologies BaaS. Learned to dislike and recognize them as abstractions and you'll see my next projects used lower-level backend frameworks.
+- Learned the basics of data retrievel and image processing.
 
 - **VideoPlayer, September 2023**
-  - *Individual Project*
-  - Curated a custom iOS VideoPlayer app using Swift and AVKit to play video content, enhancing the user experience for multimedia playback.
-  - Implemented video file handling, error checking, playback functionality, and user permission requests, showcasing strong problem-solving skills and attention to detail.
+  - *Individual Project (Swift)*
+  - My introduction to Swift architecture and mobile devleopment. Started a phase of obsession with Swift (perhaps from being scarred by C++)
+  - Custom iOS VideoPlayer app using UIKit and AVKit to play video content.
+  - Implemented video file handling, error checking, playback functionality, and user permission requests.
 
+- **SpaceBreak, May 2023 – July 2023**
+  - *Individual Project (C++)*
+  - My introduction to "real" programming.
+  - Recreated the classic Asteroids game as CLI in C++.
+  - Learned low-level fundamentals, problem solving, and collision detection.
+  - Developed a captivating reinterpretation of the classic Asteroids 
+
+
+
+  
 ## Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/brandon-williams/) for more information about my projects and professional experiences. You can also reach me via email at brandonmakaiw@gmail.com. I'm always open to new opportunities and collaborations. Let's build something amazing together!
