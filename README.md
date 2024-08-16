@@ -19,37 +19,37 @@ Come explore what I'm up to. I love to program and I write hundreds of lines of 
 ## Projects
 
 - **Distrubted Task Queue, August 2024**
-- **Individual Project, (Go)**
-- Desperate to get out of the cycle of creating bad front-ends due to my lack of design skills, I am currently learning Go to make more preformant backends.
-- This project will serve as my first official intro to Go.
-- I plan on implementing Goroutines, HTTP networking, and more to better understand Go's paradigm.
+  - **Individual Project, (Go)**
+  - Desperate to get out of the cycle of creating bad front-ends due to my lack of design skills, I am currently learning Go to make more preformant backends.
+  - This project will serve as my first official intro to Go.
+  - I plan on implementing Goroutines, HTTP networking, and more to better understand Go's paradigm.
 
 - **Partner Analysis Intern Project, June 2024**
-- *Intern Project (React + FastAPI)*
-- Really dove deep into learning backend logic, API calls, and systems architecturing.
-- Collected data on potential partners, wrote thousaunds of lines of code, and worked as the lead backend engineer.
-- Displayed data using ChartJS in React front-end.
+  - *Intern Project (React + FastAPI)*
+  - Really dove deep into learning backend logic, API calls, and systems architecturing.
+  - Collected data on potential partners, wrote thousaunds of lines of code, and worked as the lead backend engineer.
+  - Displayed data using ChartJS in React front-end.
 
 - **SupaSonic LLM Web App, May 2024**
-- *Hackathon Project (React + Flask)*
-- Learned basics of React from this project. Led to a new-found love for web application development.
-- My first "FullStack" application that I would say didn't just utilize a BaaS solution.
-- Learned basics of routing and API calls.
-- Learned how to implement OpenAI's API and basic prompt engineering (impressive, I know).
+  - *Hackathon Project (React + Flask)*
+  - Learned basics of React from this project. Led to a new-found love for web application development.
+  - My first "FullStack" application that I would say didn't just utilize a BaaS solution.
+  - Learned basics of routing and API calls.
+  - Learned how to implement OpenAI's API and basic prompt engineering (impressive, I know).
 
 - **Solace, March 2024**
-- *Hackathon Project (Swift)
-- My first hackathon where I worked with a team.
-- Crash course on how to work with other members with no sleep and differing opinions.
+  - *Hackathon Project (Swift)
+  - My first hackathon where I worked with a team.
+  - Crash course on how to work with other members with no sleep and differing opinions.
 
 - **Thrift, Feburary 2024**
-- *Individual Project (Swift)*
-- My first passion project that I poured hundreds of hours into.
-- Smallish project created due to a recent interest in fashion at my university and watching the ever so inspiring "The Social Network" film.
-- The application allowed for students to login with their howard email and post about clothes that they had designed.
-- Learned basic data structures and algorithms to implement a matching algorithm (KNN).
-- First experience using backend technologies BaaS. Learned to dislike and recognize them as abstractions and you'll see my next projects used lower-level backend frameworks.
-- Learned the basics of data retrievel and image processing.
+  - *Individual Project (Swift)*
+  - My first passion project that I poured hundreds of hours into.
+  - Smallish project created due to a recent interest in fashion at my university and watching the ever so inspiring "The Social Network" film.
+  - The application allowed for students to login with their howard email and post about clothes that they had designed.
+  - Learned basic data structures and algorithms to implement a matching algorithm (KNN).
+  - First experience using backend technologies BaaS. Learned to dislike and recognize them as abstractions and you'll see my next projects used lower-level backend frameworks.
+  - Learned the basics of data retrievel and image processing.
 
 - **VideoPlayer, September 2023**
   - *Individual Project (Swift)*
