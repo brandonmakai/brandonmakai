@@ -35,7 +35,7 @@ Hi, nice to see you here. This page is dedicated to the various passion projects
   - My first hackathon where I worked with a team.
   - Crash course on how to work with other members with no sleep and differing opinions.
 
-- **Thrift, Feburary 2024**
+- **Thrift, December 2024**
   - **Individual Project, (Swift)**
   - My first passion project that I poured hundreds of hours into.
   - Smallish project created due to a recent interest in fashion at my university and watching the ever so inspiring "The Social Network" film.
