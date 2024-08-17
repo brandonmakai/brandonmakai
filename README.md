@@ -46,7 +46,7 @@ Hi, nice to see you here. This page is dedicated to the various passion projects
 
 - **VideoPlayer, September 2023**
   - **Individual Project, (Swift)**
-  - My introduction to Swift architecture and mobile devleopment. Started a phase of obsession with Swift (perhaps from being scarred by C++)
+  - My introduction to Swift architecture and mobile devleopment. Was very simple, but started a phase of obsession with Swift (perhaps from being scarred by C++)
   - Custom iOS VideoPlayer app using UIKit and AVKit to play video content.
   - Implemented video file handling, error checking, playback functionality, and user permission requests.
 
