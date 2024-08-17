@@ -41,7 +41,7 @@ Hi, nice to see you here. This page is dedicated to the various passion projects
   - Smallish project created due to a recent interest in fashion at my university and watching the ever so inspiring "The Social Network" film.
   - The application allowed for students to login with their howard email and post about clothes that they had designed.
   - Learned basic data structures and algorithms to implement a matching algorithm (KNN).
-  - First experience using backend technologies BaaS. Learned to dislike and recognize them as abstractions and you'll see my next projects used lower-level backend frameworks.
+  - First experience using backend technologies (BaaS). Learned to dislike and recognize them as abstractions and you'll see my next projects used lower-level backend frameworks.
   - Learned the basics of data retrievel and image processing.
 
 - **VideoPlayer, September 2023**
