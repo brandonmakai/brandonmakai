@@ -4,12 +4,16 @@ Hi, nice to see you here. This page is dedicated to the various passion projects
 ## Technical Work
 
 - **Proficient Languages**
-  - Languages: JavaScript, Python, Swift
-  - Work in progress: Go
-  
+  - Languages: C++, Go, JavaScript/TypeScript, Python  
 ## Projects
 
-- **Distrubted Task Queue, Current**
+- **ClipMux, August 2025**
+- **Open-source CLI Project, (Go)**
+- Built to solve a personal pain point: managing and pasting multiple clipboard entries seamlessly.
+- Developed using the Go expertise I’ve been building over the past year, with a focus on writing clean, efficient, and extensible code.
+- Inspired by my immersion in power-user culture, designed to boost productivity for developers and heavy CLI users alike.
+
+- **Distrubted Task Queue, November 2024**
   - **Individual Project, (Go)**
   - Desperate to get out of the cycle of creating bad front-ends due to my lack of design skills, I am currently learning Go to make more performant backends.
   - This CLI project will serve as my first official intro to Go.
