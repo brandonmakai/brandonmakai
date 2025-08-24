@@ -8,10 +8,10 @@ Hi, nice to see you here. This page is dedicated to the various passion projects
 ## Projects
 
 - **ClipMux, August 2025**
-- **Open-source CLI Project, (Go)**
-- Built to solve a personal pain point: managing and pasting multiple clipboard entries seamlessly.
-- Developed using the Go expertise I’ve been building over the past year, with a focus on writing clean, efficient, and extensible code.
-- Inspired by my immersion in power-user culture, designed to boost productivity for developers and heavy CLI users alike.
+  - **Open-source CLI Project, (Go)**
+  - Built to solve a personal pain point: managing and pasting multiple clipboard entries seamlessly.
+  - Developed using the Go expertise I’ve been building over the past year, with a focus on writing clean, efficient, and extensible code.
+  - Inspired by my immersion in power-user culture, designed to boost productivity for developers and heavy CLI users alike.
 
 - **Distrubted Task Queue, November 2024**
   - **Individual Project, (Go)**
